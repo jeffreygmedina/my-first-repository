@@ -1,2 +1,2 @@
 # README #
-this is a committ message
+this is a committ message for my learning
